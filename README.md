@@ -1,4 +1,6 @@
 MARS
+
+
 Experiments on MARS, as it is the largest dataset available to date for video-based person reID. Please follow deep-person-reid to prepare the data. The instructions are copied here:
 
 Create a directory named mars/.
@@ -18,6 +20,8 @@ Utilize V2E to generate the corresponding event sequence.
 The event version of MARS is so large (almost 20,000 videos). In the following weeks, we will put our data in this link: https://pan.baidu.com/s/1jont6AXijx3bwLzeHblwnw password:y762
 
 iLIDS-VID
+
+
 Create a directory named ilids-vid/ under data/.
 
 Download the dataset from http://www.eecs.qmul.ac.uk/~xiatian/downloads_qmul_iLIDS-VID_ReID_dataset.html to "ilids-vid".
@@ -31,6 +35,8 @@ ilids-vid/
     i-LIDS-VID—event/
     train-test people splits
 PRID
+
+
 Create a directory named PRID/ under data/.
 
 Download the dataset and event sequence from: https://pan.baidu.com/s/13OTKjwcfbrQQDbDtPyEYRA password：5olr
