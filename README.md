@@ -34,15 +34,4 @@ ilids-vid/
     i-LIDS-VID/
     i-LIDS-VID—event/
     train-test people splits
-PRID
 
-
-Create a directory named PRID/ under data/.
-
-Download the dataset and event sequence from: https://pan.baidu.com/s/13OTKjwcfbrQQDbDtPyEYRA password：5olr
-
-Organize the data structure to match
-
-PRID/
-    prid_2011/
-    prid_2011_event/
