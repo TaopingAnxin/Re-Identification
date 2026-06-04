@@ -5,8 +5,10 @@ Experiments on MARS, as it is the largest dataset available to date for video-ba
 
 Download dataset to mars/ from http://www.liangzheng.com.cn/Project/project_mars.html.
 Extract bbox_train.zip and bbox_test.zip.
-Download split information from https://github.com/liangzheng06/MARS-evaluation/tree/master/info and put info/ in data/mars (we want to follow the standard split in [8]). The data structure would look like:
-Download mars_attributes.csv from http://irip.buaa.edu.cn/mars_duke_attributes/index.html, and put the file in data/mars. The data structure would look like:
+
+Download split information from https://github.com/liangzheng06/MARS-evaluation/tree/master/info. 
+
+Download mars_attributes.csv from http://irip.buaa.edu.cn/mars_duke_attributes/index.html.
 
 Utilize V2E to generate the corresponding event sequence.
 
